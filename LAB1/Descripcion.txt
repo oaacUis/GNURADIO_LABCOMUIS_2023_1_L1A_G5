@@ -1,0 +1,1 @@
+En este lab se busca que el estudiante aprenda los principios básicos de funcionamiento de los equipos presentes en el laboratorio de comunicaciones.
